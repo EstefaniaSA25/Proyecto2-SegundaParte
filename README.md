@@ -7,7 +7,7 @@ Segunda parte del segundo proyecto de Python Avanzado
 **Materia:** Programación Python Avanzada  
 **Integrantes:** Amezaga Estefanía, Figueroa Cynthia, Pizarro Sol.
 
-## Conclusiones – Segunda Parte: Regresión Lineal Múltiple
+## Conclusiones
 
 El análisis realizado sobre el dataset de autos usados permitió construir y evaluar un modelo de regresión lineal múltiple con el objetivo de predecir el precio a partir de distintas características del vehículo. La exploración inicial mostró que los datos no presentaban valores faltantes y que existía una amplia variabilidad en kilómetros recorridos, edad del auto y precio, lo que hacía necesario un modelo capaz de capturar relaciones lineales entre múltiples variables.
 
